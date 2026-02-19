@@ -4,7 +4,7 @@
  * @version 2.0
  * @author  Till Heuer - EVE Audio GmbH
  * @brief   Driver for Texas Instruments LP5024 LED driver IC.
- * @date 	Dec 7, 2023
+ * @date 	07/12/2023
  ******************************************************************************
  */
 

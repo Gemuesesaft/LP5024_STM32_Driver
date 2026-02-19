@@ -1,10 +1,10 @@
 /**
  ******************************************************************************
  * @file    LP5024.h
- * @version 1.0
+ * @version 1.1
  * @author  Till Heuer - EVE Audio GmbH
  * @brief   Headerfile for driver for Texas Instruments LP5024 LED driver IC.
- * @date 	Dec 7, 2023
+ * @date 	19/02/2026
  * @verbatim
  * Datasheet: https://www.ti.com/lit/ds/symlink/lp5024.pdf?ts=1706742536274
  * @endverbatim
