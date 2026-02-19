@@ -27,9 +27,8 @@ extern "C"
 #ifndef CUSTOM_DRIVERS_INC_LP5024_H_
 #define CUSTOM_DRIVERS_INC_LP5024_H_
 
-#define STM32F1 // Select MCU
-
 // Includes
+#include "main.h"
 /* For I2C and GPIO funcionality. */
 #if defined(STM32WB)
 #include "stm32wbxx_hal.h"
